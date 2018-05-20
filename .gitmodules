@@ -1,3 +1,6 @@
 [submodule "testsm-dependency1"]
 	path = testsm-dependency1
 	url = https://github.com/lehuynhyen/testsm-dependency1.git
+[submodule "testsb-dependency2"]
+	path = testsb-dependency2
+	url = https://github.com/lehuynhyen/testsb-dependency2.git
