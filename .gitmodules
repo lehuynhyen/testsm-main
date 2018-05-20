@@ -1,0 +1,3 @@
+[submodule "testsm-dependency1"]
+	path = testsm-dependency1
+	url = https://github.com/lehuynhyen/testsm-dependency1.git
